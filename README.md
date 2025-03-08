@@ -10,8 +10,8 @@ Clone repo and install [requirements.txt](/requirements.txt) in a
 [**PyTorch>=1.7**](https://pytorch.org/get-started/locally/).
 
 ```bash
-git clone https://git.brin.go.id/gila003/salfia  # clone
-cd yolov3
+git clone https://github.com/gilangmantara/salfia  # clone
+cd salfia
 pip install -r requirements.txt  # install
 ```
 
